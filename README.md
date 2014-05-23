@@ -17,4 +17,12 @@ Add {{flexslider-jscss}} before the closing body tag
 
 Add [[multiTV? &tvName=`flexslider` &display=`all`]] where you want to display the Flexslider
 
+![flexslider edit template](https://raw.githubusercontent.com/Nicola1971/FlexSlider-MultiTV/master/flextv-edit-template.jpg)
+
+
 4) Edit a resource and use the (multi)TV flexslider to add slides and text to your Flexslider
+
+![flexslider multitv](https://raw.githubusercontent.com/Nicola1971/FlexSlider-MultiTV/master/flextv-backend.jpg)
+
+
+![frontend](https://raw.githubusercontent.com/Nicola1971/FlexSlider-MultiTV/master/flextv-front.jpg)
