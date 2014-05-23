@@ -11,6 +11,8 @@
  * @internal    @overwrite false
  */
 
+<link rel="stylesheet" type="text/css" href="/assets/js/flexslider/flexslider.css" media="screen" />
+<script type="text/javascript" src="/assets/js/jquery.min.js"></script>
 <script type="text/javascript" src="/assets/js/flexslider/jquery.flexslider-min.js"></script>
 <script type="text/javascript">
    (function($) {
@@ -25,4 +27,3 @@
    })(jQuery);
 
 </script>
-<link rel="stylesheet" type="text/css" href="/assets/js/flexslider/flexslider.css" media="screen" />
