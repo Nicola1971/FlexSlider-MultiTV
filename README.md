@@ -1,7 +1,7 @@
 FlexSlider-MultiTV
 ==================
 
-Install Flexslider with MultiTV for managing Slides
+Install Flexslider 2.2 and a MultiTV for managing Slides
 
 Instructions:
 
