@@ -2,7 +2,7 @@ FlexSlider-MultiTV for MODx Evolution
 ==================
 Install Flexslider 2.2 and a MultiTV for managing Slides
 
-Require: Multv Snippet https://github.com/Jako/multiTV
+Require: MultiTV Snippet https://github.com/Jako/multiTV
 
 Instructions:
 
