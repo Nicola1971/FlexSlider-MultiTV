@@ -1,10 +1,10 @@
 /**
  * flexslider
  *
- * Flexslider manager with multi tv
+ * multiTV FlexSlider manager v.2
  *
  * @category	tv
- * @internal	@modx_category Flexslider-MultiTV
+ * @internal	@modx_category MultiTV add-ons
  * @internal    @caption flexslider
  * @internal    @input_type custom_tv
  * @internal    @input_options @INCLUDE/assets/tvs/multitv/multitv.customtv.php
