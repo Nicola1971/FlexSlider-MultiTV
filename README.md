@@ -4,6 +4,8 @@ Install Flexslider 2.2 and a MultiTV for managing Slides
 
 Require: MultiTV Snippet https://github.com/Jako/multiTV
 
+More infos and demo: http://www.tattoocms.it/extras/multitvs/flexslider-multitv-for-modx-evolution.html
+
 Instructions:
 
 1) Install with Evolution Package manager 
@@ -22,7 +24,7 @@ Add [[multiTV? &tvName=`flexslider` &display=`all`]] where you want to display t
 
 4) Edit a resource and use the (multi)TV flexslider to add slides and text to your Flexslider
 
-![flexslider multitv](https://raw.githubusercontent.com/Nicola1971/FlexSlider-MultiTV/master/flextv-backend.jpg)
+![flexslider multitv](https://raw.githubusercontent.com/Nicola1971/FlexSlider-MultiTV/master/flextv-multitv.jpg)
 
 
 ![frontend](https://raw.githubusercontent.com/Nicola1971/FlexSlider-MultiTV/master/flextv-flexslider.jpg)
