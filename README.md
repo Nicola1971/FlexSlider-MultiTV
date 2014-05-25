@@ -25,4 +25,4 @@ Add [[multiTV? &tvName=`flexslider` &display=`all`]] where you want to display t
 ![flexslider multitv](https://raw.githubusercontent.com/Nicola1971/FlexSlider-MultiTV/master/flextv-backend.jpg)
 
 
-![frontend](https://raw.githubusercontent.com/Nicola1971/FlexSlider-MultiTV/master/flextv-front.jpg)
+![frontend](https://raw.githubusercontent.com/Nicola1971/FlexSlider-MultiTV/master/flextv-flexslider.jpg)
