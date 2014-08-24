@@ -1,8 +1,9 @@
 /**
- * flexslider-jscss
+ * flexslider-js
  *
- * include js and css for flexslider multitv
+ * include js for flexslider multitv
  *
+ * @author      tattoocms.it
  * @category	chunk
  * @version 	2.0
  * @license 	http://www.gnu.org/copyleft/gpl.html GNU Public License (GPL)
@@ -11,7 +12,6 @@
  * @internal    @overwrite false
  */
 
-<link rel="stylesheet" type="text/css" href="/assets/templates/common/js/flexslider/flexslider.css" media="screen" />
 <script type="text/javascript" src="/assets/templates/common/js/jquery.min.js"></script>
 <script type="text/javascript" src="/assets/templates/common/js/flexslider/jquery.flexslider-min.js"></script>
 <script type="text/javascript">
