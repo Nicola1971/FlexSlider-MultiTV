@@ -15,7 +15,8 @@ Select your default template
 
 3) Edit your default template
 
-Add {{flexslider-jscss}} before the closing body tag
+* Add {{flexslider-css}} inside the head tag
+* Add {{flexslider-js}} before the closing body tag
 
 Add [[multiTV? &tvName=`flexslider` &display=`all`]] where you want to display the Flexslider
 
